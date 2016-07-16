@@ -1,0 +1,17 @@
+{
+  "name": "app-entrega",
+  "version": "0.0.0",
+  "description": "prototipo do app de entragas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Caio Wilson",
+  "license": "ISC",
+  "dependencies": {
+    "cliff": "^0.1.10",
+    "moment": "^2.14.1",
+    "replay": "^2.0.6",
+    "waze": "^0.3.0"
+  }
+}
